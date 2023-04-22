@@ -12,6 +12,6 @@ public class TestJenkins {
     }
     @GetMapping("/test2")
     public String show2() {
-        return "Hello@";
+        return "HelloTesting@";
     }
 }
